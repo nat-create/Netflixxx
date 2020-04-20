@@ -1,0 +1,71 @@
+.sidentifier{
+    background-color: #e50914;
+    border-radius: 5px;
+    height: 5vh;
+    width: 8vw;
+    color: white;
+    font-size: 15px;
+    padding: 8px;
+    border: none;
+    font-weight: 550;
+    float: right;
+    margin-top: 3vh;
+    margin-right: 3vw;
+}
+
+
+.emailbuttondiv{
+    display: flex;
+    justify-content: center;
+}
+
+
+.emailboxclass{
+    padding-left: 10px;
+    height: 60px;
+    margin-right: 0;
+    width: 428px;
+}
+
+
+.emailboxclass::placeholder{
+    margin-left: 0;
+    text-align: start;
+    font-size: 16px;
+}
+
+
+.essayer{
+    font-size: 25px;
+    margin: 0 0;
+    color: white;
+    background-color: #e50914;
+    height: 60px;
+    width: 200px;
+    border: none;
+}
+
+
+.essayer:hover{
+    background-color: red;
+}
+
+
+.quatrieme input{
+    position: relative;
+    display: block;
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin-top: 22px;
+    margin-right: 22px;
+}
+
+
+.quatrieme a{
+    position: relative;
+    display: block;
+    width: 815px;
+    height: 76;
+    background-image:url(about:blank);
+}

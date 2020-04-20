@@ -1,0 +1,69 @@
+
+.premiere{
+    background-image: url("../../images/backgroundimg.jpg");
+    box-shadow: inset 0px 0px 1000px 150px rgba(0,0,0,0.9);
+    display: block;
+    height: 700px;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+
+
+.seconde{
+    position: relative;
+    display: flex;
+    height: 325px;
+    width: 100%;
+    padding-bottom: 120px;
+}
+
+.secondegauche{
+    position: relative;
+    width: 550px;
+    height: 235px;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.secondedroite{
+    width: auto;
+    height: auto;
+    margin-top: 0;
+    margin-left: 40px;
+}
+
+.strangerthings{
+    position: relative;
+    display: flex;
+    width: 302px;
+    height: 76px;
+    border: 1px solid;
+    border-color: grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 270px;
+    margin-left: 100px;
+    background-color: black;
+}
+
+
+.quatrieme{
+    position: relative;
+}
+
+
+footer{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 900px;
+    height: 323px;
+}
+
+
+.footerclass{
+    margin-top: -30px;
+    margin-left: 30px;
+}

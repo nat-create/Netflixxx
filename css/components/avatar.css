@@ -1,0 +1,44 @@
+
+.logo{
+    position: relative;
+    background: url("images/logo.png");
+    height: auto;
+    width: 12vw;
+    margin-top: 0vh;
+    margin-left: 3vw;
+}
+
+
+.videoclass{
+    position: relative;
+    display: block;
+    width: 387px; 
+    height: 217px;
+    margin-top: 83px;
+    margin-left: 70px;
+}
+
+
+.imgclass{
+    position: absolute;
+    display: block;
+    top: 0px;
+    width: 530px;
+    height: 397px;
+}
+
+
+.strangerthings img{
+    position: absolute;
+    display: block;
+    width: 51px;
+    height: 72px;
+}
+
+
+.videoclass2{
+    width: 349px;
+    height: 187px;
+    margin-top: 40px;
+    margin-left: 92px;
+}
